@@ -13,9 +13,9 @@ To play via GitHub Pages, visit the link provided on the submission page.
 
 ## Assets
 
-| File                              | Source           |
-| --------------------------------- | ---------------- |
-| `assets/images/jenga-history.jpg` | AirFun Games [1] |
+| File                                  | Source       |
+| ------------------------------------- | ------------ |
+| `assets/images/jenga-history.jpg` [1] | AirFun Games |
 
 ## References
 
